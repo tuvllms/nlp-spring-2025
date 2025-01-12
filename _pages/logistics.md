@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /logistics/
-title: Logistics
+title: logistics
 nav: true
 nav_order: 1
 ---
