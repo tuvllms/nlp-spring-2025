@@ -10,11 +10,18 @@ ninja.data = [{
       window.location.href = "/nlp-spring-2025/";
     },
   },{id: "nav-logistics",
-          title: "Logistics",
+          title: "logistics",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/nlp-spring-2025/logistics/";
+          },
+        },{id: "nav-schedule",
+          title: "Schedule",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nlp-spring-2025/schedule/";
           },
         },{id: "post-a-post-with-image-galleries",
       
