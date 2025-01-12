@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/nlp-spring-2025/";
     },
-  },{id: "post-a-post-with-image-galleries",
+  },{id: "nav-logistics",
+          title: "Logistics",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nlp-spring-2025/logistics/";
+          },
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
