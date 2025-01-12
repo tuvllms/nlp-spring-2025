@@ -16,6 +16,8 @@ layout: default
 
   <article>
     <div class="clearfix">{{ content }}</div>
+    <!-- Staff -->
+    {% include staff.liquid %}
 
     <!-- News -->
     {% if page.news and site.announcements and site.announcements.enabled %}
