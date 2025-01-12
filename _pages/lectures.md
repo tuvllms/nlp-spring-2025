@@ -1,7 +1,7 @@
 ---
 layout: schedule
 permalink: /schedule/
-title: Schedule
+title: schedule
 nav: true
 nav_order: 2
 ---
