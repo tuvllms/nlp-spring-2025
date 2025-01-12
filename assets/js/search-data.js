@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/nlp-spring-2025/logistics/";
           },
         },{id: "nav-schedule",
-          title: "Schedule",
+          title: "schedule",
           description: "",
           section: "Navigation",
           handler: () => {
