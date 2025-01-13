@@ -1,7 +1,7 @@
 <div class="instructors clearfix">
   {% for instructor in site.data.staff.Instructors %}
   <div class="instructor-profile-two-col">
-    <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+    <a href="{{ instructor.url }}" target="_blank"><img class="circular-image" src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
     <ul class="instructor-info">
       <li><span>Instructor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
@@ -13,9 +13,11 @@
 
 <style>
   .circular-image {
-    width: 100px; /* Adjust size as needed */
-    height: 100px; /* Ensure the height matches the width for a perfect circle */
-    border-radius: 50%; /* Makes the image circular */
-    object-fit: cover; /* Ensures the image scales properly within the circle */
+    border-radius: 50%;
+    float: left;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
   }
 </style>
