@@ -1,6 +1,6 @@
 <div class="instructors clearfix">
   {% for instructor in site.data.staff.Instructors %}
-  <div class="instructor-profile-two-col">
+  <div class="instructor-profile">
     <a href="{{ instructor.url }}" target="_blank">
       <img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" alt="Instructor image" />
     </a>
@@ -14,19 +14,24 @@
 </div>
 
 <style>
+  /* Parent container for instructors */
   .instructors {
-    padding: 0 0 0 1%;
+    display: flex; /* Flexbox layout */
+    flex-wrap: wrap; /* Allow wrapping to the next row */
+    gap: 20px; /* Space between items */
+    padding: 0 1%;
   }
 
-  .instructor-profile-two-col {
+  /* Individual instructor profiles */
+  .instructor-profile {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    width: 50%;
+    flex-direction: row; /* Arrange image and info side by side */
+    align-items: flex-start; /* Align items at the top */
+    width: calc(50% - 20px); /* Two items per row */
     margin-bottom: 20px;
   }
 
-  .instructor-profile-two-col img {
+  .instructor-profile img {
     border-radius: 50%;
     object-fit: cover;
     height: 100px;
