@@ -1,9 +1,11 @@
 <div class="instructors clearfix">
   {% for instructor in site.data.staff.Instructors %}
   <div class="instructor-profile-two-col">
-    <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
+    <a href="{{ instructor.url }}" target="_blank">
+      <img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" alt="Instructor image" />
+    </a>
     <ul class="instructor-info">
-      <li><span>Instructor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+      <li><span>Instructor:</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
     </ul>
@@ -12,98 +14,46 @@
 </div>
 
 <style>
-  .logo {
-    float: left;
-    margin-right: 20px;
-    padding-bottom: 15px;
-    width: 120px;
-  }
-  
-  .about {
-      .post-title {
-          padding-top: 20px;
-      }
-      .post-description {
-          font-size: 20px;
-      }
-  }
-  
   .instructors {
-      padding: 0 0 0 1%;
+    padding: 0 0 0 1%;
   }
-  
-  %instructor-profile {
-      display: block;
-      float: left;
-      height: 210px;
-  
-      @media screen and (min-width: 676px) {
-          height: 130px;
-      }
-  
-      img {
-          border-radius: 50%;
-          float: left;
-          object-fit: cover;
-          height: 100px;
-          width: 100px;
-          margin-right: 10px;
-      }
-  
-      ul.instructor-info {
-          display: block;
-          float: left;
-          list-style-type: none;
-          padding-left: 0;
-          width: 65%;
-          width: -webkit-calc(100% - 130px);
-          width: calc(100% - 130px);
-          min-width: 210px;
-  
-          a {
-              color: $theme-color;
-              &:hover {
-                  text-decoration: underline;
-              }
-          }
-  
-          span {
-              font-weight: 400;
-          }
-      }
-  }
+
   .instructor-profile-two-col {
-      @extend %instructor-profile;
-      width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 50%;
+    margin-bottom: 20px;
   }
-  .instructor-profile-three-col {
-      @extend %instructor-profile;
-      width: 33%;
+
+  .instructor-profile-two-col img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
   }
-  
-  .news {
-      border-top: 1px solid $grey-color-light;
-      margin-top: 30px;
-      padding-top: 20px;
-  
-      h2 {
-          font-weight: bold;
-          margin-top: 0;
-          margin-bottom: 10px;
-      }
-      table {
-          border-collapse: collapse;
-          width: 100%;
-  
-          .date { width: 19%; }
-          .announcement { width: 81%; }
-  
-          tr { text-align: left; }
-          td {
-              padding: 6px 0;
-              vertical-align: top;
-              border: none;
-          }
-      }
+
+  .instructor-info {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .instructor-info li {
+    margin-bottom: 5px;
+  }
+
+  .instructor-info a {
+    color: #007bff; /* Replace with your desired theme color */
+    text-decoration: none;
+  }
+
+  .instructor-info a:hover {
+    text-decoration: underline;
+  }
+
+  .instructor-info span {
+    font-weight: bold;
   }
 </style>
