@@ -1,12 +1,14 @@
 Instructors:
     - name: Tu Vu
+      role: Instructor
       email: tuvu@vt.edu
       url: https://tuvllms.github.io/
-      office-hours: "TBD"
+      office-hours: "Thursday 3:00 - 4:00 PM"
       image: tu.jpg
 
-    - name: Tu Vu
-      email: tuvu@vt.edu
-      url: https://tuvllms.github.io/
+    - name: Rishab Balasubramanian
+      role: Teaching Assistant
+      email: rishbb@vt.edu
+      url: https://rishabbala.github.io/
       office-hours: "TBD"
-      image: tu.jpg
+      image: rishab.jpg
