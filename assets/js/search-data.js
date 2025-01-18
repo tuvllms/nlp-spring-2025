@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/nlp-spring-2025/gradescope/";
           },
         },{id: "nav-canvas",
-          title: "Canvas",
+          title: "canvas",
           description: "",
           section: "Navigation",
           handler: () => {
