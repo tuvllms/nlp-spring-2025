@@ -1,7 +1,7 @@
 ---
 layout: about
 title: home
-course: <b>CS 5624</b> - <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
+course_name: <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
 permalink: /
 subtitle: Spring 2025
 
