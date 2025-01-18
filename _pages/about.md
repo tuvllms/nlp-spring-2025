@@ -23,7 +23,7 @@ This course provides an in-depth exploration of Natural Language Processing (NLP
 
 - **Time:** Tuesday & Thursday 11:00 AM - 12:15 PM
 - **Location:** [Derring Hall 3081](https://www.google.com/maps/place/926+W+Campus+Dr,+Blacksburg,+VA+24060/@37.2289672,-80.4257144,16z/)
-- **Contact:** Students should ask all course-related questions on Piazza. For personal matters or emergencies, please email all of us at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>. If you have any questions or comments to share anonymously, please use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLScTCJ3gYxzwTKibldfJ5mQAumFU0AGQSqJfBFW9x0mTRJSETQ/viewform?usp=dialog).
+- **Contact:** Students should ask all course-related questions on Piazza. For personal matters or emergencies, please email all of us at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>. For sharing any questions or comments anonymously, please use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLScTCJ3gYxzwTKibldfJ5mQAumFU0AGQSqJfBFW9x0mTRJSETQ/viewform?usp=dialog).
 
 ***
 
