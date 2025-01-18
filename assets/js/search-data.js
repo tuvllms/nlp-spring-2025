@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nlp-spring-2025/gradescope/";
           },
+        },{id: "nav-canvas",
+          title: "Canvas",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nlp-spring-2025/canvas/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
