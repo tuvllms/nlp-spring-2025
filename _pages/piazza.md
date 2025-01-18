@@ -1,5 +1,5 @@
 ---
-layout: redirected
+layout: default
 permalink: /piazza/
 title: Piazza
 nav: true
