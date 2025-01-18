@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/nlp-spring-2025/piazza/";
           },
         },{id: "nav-gradescope",
-          title: "Gradescope",
+          title: "gradescope",
           description: "",
           section: "Navigation",
           handler: () => {
