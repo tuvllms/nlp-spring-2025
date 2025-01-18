@@ -396,8 +396,8 @@ ninja.data = [{
           window.location.href = "/nlp-spring-2025/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-course-begins",
+          title: 'Course begins!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
