@@ -1,6 +1,7 @@
 ---
 layout: about
 title: home
+course_code: CS 5624
 course_name: <b>N</b>atural <b>L</b>anguage <b>P</b>rocessing
 permalink: /
 subtitle: Spring 2025
