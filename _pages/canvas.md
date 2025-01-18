@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /canvas/
-title: Canvas
+title: canvas
 nav: true
 nav_order: 5
-redirect: https://tuvllms.github.io/nlp-spring-2025/
+redirect_to: https://tuvllms.github.io/nlp-spring-2025/
 ---
