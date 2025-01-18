@@ -10,9 +10,12 @@ layout: default
   </header>
 
   <article>
-    <!-- Staff -->
-    {% include staff.liquid %}
     <div class="clearfix">{{ content }}</div>
+    <!-- Staff -->
+    <h2>
+      <a href="{{ '/staff/' | relative_url }}" style="color: inherit">staff</a>
+    </h2>
+    {% include staff.liquid %}
     <!-- News -->
     {% if page.news and site.announcements and site.announcements.enabled %}
       <h2>
