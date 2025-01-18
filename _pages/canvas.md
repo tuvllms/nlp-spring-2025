@@ -1,5 +1,5 @@
 ---
-layout: redirected
+layout: default
 permalink: /canvas/
 title: Canvas
 nav: true
