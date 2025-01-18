@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nlp-spring-2025/schedule/";
           },
-        },{id: "nav-gradescope",
-          title: "Gradescope",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/nlp-spring-2025/gradescope/";
-          },
         },{id: "nav-piazza",
           title: "Piazza",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/nlp-spring-2025/piazza/";
+          },
+        },{id: "nav-gradescope",
+          title: "Gradescope",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nlp-spring-2025/gradescope/";
           },
         },{id: "post-a-post-with-image-galleries",
       
