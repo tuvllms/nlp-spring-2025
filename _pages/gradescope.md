@@ -1,5 +1,5 @@
 ---
-layout: redirected
+layout: default
 permalink: /gradescope/
 title: Gradescope
 nav: true
