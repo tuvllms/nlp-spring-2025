@@ -12,15 +12,11 @@ layout: default
   <article>
     <div class="clearfix">{{ content }}</div>
     <!-- Staff -->
-    <h2>
-      <a href="{{ '/staff/' | relative_url }}" style="color: inherit">staff</a>
-    </h2>
+    <h2 style="color: inherit">staff</h2>
     {% include staff.liquid %}
     <!-- News -->
     {% if page.news and site.announcements and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
+      <h2 style="color: inherit">news</h2>
       {% include news.liquid limit=true %}
     {% endif %}
   </article>
