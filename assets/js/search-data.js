@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/nlp-spring-2025/schedule/";
           },
         },{id: "nav-piazza",
-          title: "Piazza",
+          title: "piazza",
           description: "",
           section: "Navigation",
           handler: () => {
