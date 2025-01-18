@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/nlp-spring-2025/schedule/";
           },
+        },{id: "nav-piazza",
+          title: "Piazza",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nlp-spring-2025/piazza/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
