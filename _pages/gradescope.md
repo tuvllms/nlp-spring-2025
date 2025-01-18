@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /gradescope/
-title: Gradescope
+title: gradescope
 nav: true
 nav_order: 4
-redirect: https://tuvllms.github.io/nlp-spring-2025/
+redirect_to: https://tuvllms.github.io/nlp-spring-2025/
 ---
