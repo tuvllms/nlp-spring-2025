@@ -13,7 +13,7 @@ social: true # includes social icons at the bottom of the page
 
 <b>Course description</b>
 
-This course provides an in-depth exploration of Natural Language Processing (NLP) with a focus on the principles and techniques behind the development of large language models (LLMs). Topics include foundational NLP concepts, neural language models, transformer architectures, pretraining and fine-tuning techniques, prompt engineering, LLM alignment, evaluation methods, model efficiency and adaptability, advanced reasoning, retrieval-augmented generation and tool-use LLMs, LLM agents, etc. Students will gain practical experience through coding assignments and a project, preparing them to design and evaluate state-of-the-art LLMs for real-world applications.
+This course provides an in-depth exploration of Natural Language Processing (NLP) with a focus on the principles and techniques behind the development of large language models (LLMs). Topics include foundational NLP concepts, neural language models, transformer architectures, pretraining and fine-tuning techniques, prompt engineering, LLM alignment, evaluation methods, model efficiency and adaptability, advanced reasoning, tool-use LLMs, LLM agents, etc. Students will gain practical experience through coding assignments and a project, preparing them to design and evaluate state-of-the-art LLMs for real-world applications.
 
 <b>Prerequisites</b>
 - Familiarity with basic machine learning and deep learning concepts
