@@ -19,5 +19,11 @@ This course provides an in-depth exploration of Natural Language Processing (NLP
 - Familiarity with basic machine learning and deep learning concepts
 - Proficiency in Python programming
 
+***
 
+- **Time:** Tuesday & Thursday 11:00 AM - 12:15 PM
+- **Location:** [Derring Hall 3081](https://www.google.com/maps/place/926+W+Campus+Dr,+Blacksburg,+VA+24060/@37.2289672,-80.4257144,16z/)
+- **Contact:** Students should ask all course-related questions on Piazza, where announcements are also shared. For personal matters or emergencies, please email all of us at *cs5624-instructors@gmail.com*.
+
+***
 
