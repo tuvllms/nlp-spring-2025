@@ -11,11 +11,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Course description: 
+<b>Course description</b>
 
 This course provides an in-depth exploration of Natural Language Processing (NLP) with a focus on the principles and techniques behind the development of large language models (LLMs). Topics include foundational NLP concepts, X, Y, Z.\todo{tuvu}{Fill in missing topics} Students will gain practical experience through coding assignments and a project, preparing them to design and evaluate state-of-the-art LLMs for real-world applications.
 
-Prerequisites:
+<b>Prerequisites</b>
 - Familiarity with basic machine learning and deep learning concepts
 - Proficiency in Python programming
 
