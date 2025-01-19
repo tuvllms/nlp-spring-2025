@@ -35,7 +35,9 @@ If there are aspects of this course that prevent you from learning or exclude yo
 
 ***
 
-### Honor Code statement
+### Graduate Academic Integrity Statement
+
+The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in this course, and all assignments shall be subject to the stipulations of the Graduate Honor Code. For more information on the Graduate Honor Code, please refer to the <a href="https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html">GHS Constitution</a>.
 
 ***
 
