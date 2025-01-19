@@ -64,10 +64,20 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 ### Course/learning objectives
 
-By the end of this course, students will be able to explain key NLP principles and techniques for building LLMs, including:
+By the end of this course, students will be able to explain key NLP principles and techniques for building state-of-the-art LLMs, including:
 
 - foundational concepts of language models
 - transformer models, such as BERT, and techniques for LLM pretraining and fine-tuning
+- strategies for LLM prompting and decoding
+- techniques for aligning LLMs with human instructions and preferences
+- evaluation methods
+- techniques for enhancing LLM efficiency and adaptability
+- advanced LLM concepts (e.g., advanced reasoning) and compound AI Systems (e.g., RAG, tool-use LLMs, agents)
+- techniques for developing multimodal and multilingual LLMs, code and math LLMs
+- techniques for ensuring LLM safety and security
+- alternatives to token-based models and transformers
+
+Students will gain practical expertise in designing, training, evaluating, and applying advanced LLMs, preparing them to tackle real-world challenges and adapt LLMs to diverse tasks and contexts.
 
 ***
 
