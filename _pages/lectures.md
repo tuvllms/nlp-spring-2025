@@ -32,10 +32,8 @@ Note: Since this is the first time the class is being taught, the schedule may a
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
-        <br />
+        {% if lecture.lecturer %}({{ lecture.lecturer }}):{% endif %}
         {{ lecture.title }}
-        <br />
         [
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
