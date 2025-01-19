@@ -48,6 +48,8 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 ### Absence policy
 
+Although attendance is not graded, students are strongly encouraged to attend all scheduled classes, exams (if any), quizzes, and project presentations to fully engage with the course material and succeed.
+
 ***
 
 ### VT Principles of Community statement
