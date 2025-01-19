@@ -34,6 +34,20 @@ Each student is allowed <b>three</b> late days for homework submissions. Once th
 
 ***
 
+### AI assistance policy
+
+AI assistance is permitted for completing assignments, including homework, quizzes, projects, and exams (if any). However, if you use AI tools like ChatGPT or Gemini, you must submit the prompts you used and describe how the AI contributed to your work. It is your responsibility to verify the AI-generated content for accuracy before submission.
+
+***
+
+### Student collaboration policy
+
+Apart from group projects, students must independently complete their work. Sharing code or written materials with others is prohibited. However, discussing concepts, clarifying instructions, exploring problem-solving approaches, or seeking debugging advice (without sharing code) is encouraged. All external sources must be properly cited.
+
+For group projects, work must be completed solely by members of the group.
+
+***
+
 ### Academic accommodations
 
 Virginia Tech welcomes students with disabilities into the University's educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to, chronic medical conditions, Deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) (540-231-3788, <a href="mailto:ssd@vt.edu" target="_blank">ssd@vt.edu</a>, or visit <a href="https://ssd.vt.edu/">www.ssd.vt.edu</a>). If you have an SSD accommodation letter, please meet with us privately during office hours as early in the semester as possible to discuss implementing your accommodations. You must give us reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams or project presentations.
@@ -54,7 +68,7 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 ### Absence policy
 
-Although attendance is not graded, students are strongly encouraged to attend all scheduled classes, exams (if any), quizzes, and project presentations to fully engage with the course material and succeed.
+Although attendance is not graded, students are strongly encouraged to attend all scheduled classes, quizzes, project presentations, and exams (if any) to fully engage with the course material and succeed.
 
 ***
 
