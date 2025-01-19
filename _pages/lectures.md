@@ -6,6 +6,8 @@ nav: true
 nav_order: 2
 ---
 
+Note: Since this is the first time the class is being taught, the schedule may adjust if we need more or less time on certain topics.
+
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
