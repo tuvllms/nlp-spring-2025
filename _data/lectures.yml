@@ -1,7 +1,7 @@
 - date: 1/21
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Introduction</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -11,7 +11,7 @@
 - date: 1/23
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Language modeling</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -19,7 +19,7 @@
 - date: 1/28
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Neural language models</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -27,7 +27,7 @@
 - date: 1/30
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Backpropagation</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -35,7 +35,7 @@
 - date: 2/4
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Word Embeddings</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -45,7 +45,7 @@
 - date: 2/6
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Transformers</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -53,7 +53,7 @@
 - date: 2/11
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Transformers (cont’d)</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -61,7 +61,7 @@
 - date: 2/13
   lecturer:
   title: >
-    <strong></strong>
+    <strong>The Era of BERT</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -69,7 +69,7 @@
 - date: 2/18
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Scaling LLM Pretraining</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -79,7 +79,7 @@
 - date: 2/20
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Prompting</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -87,7 +87,7 @@
 - date: 2/25
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Decoding</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -95,7 +95,7 @@
 - date: 2/27
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Instruction tuning</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -103,7 +103,7 @@
 - date: 3/4
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Alignment</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -111,7 +111,7 @@
 - date: 3/6
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Evaluation</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -127,7 +127,7 @@
 - date: 3/18
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Parameter-efficient fine-tuning</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -135,7 +135,7 @@
 - date: 3/20
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Mixture of Experts</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -143,7 +143,7 @@
 - date: 3/25
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Model Merging</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -151,7 +151,7 @@
 - date: 3/27
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Distillation, quantization, and pruning</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -159,7 +159,7 @@
 - date: 4/1
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Small LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -167,7 +167,7 @@
 - date: 4/3
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Long-context LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -177,7 +177,7 @@
 - date: 4/8
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Thinking LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -185,7 +185,7 @@
 - date: 4/10
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Scaling test-time compute</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -193,7 +193,7 @@
 - date: 4/15
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Retrieval-augmented generation (RAG) & Tool-use LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -201,7 +201,7 @@
 - date: 4/17
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Agents</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -211,7 +211,7 @@
 - date: 4/22
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Multimodal LLMs & Multilingual LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -219,7 +219,7 @@
 - date: 4/24
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Code and Math LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -227,7 +227,7 @@
 - date: 4/29
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Token-free LLMs</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -235,7 +235,7 @@
 - date: 5/1
   lecturer:
   title: >
-    <strong></strong>
+    <strong>LLM Safety and Security</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -243,7 +243,7 @@
 - date: 5/6
   lecturer:
   title: >
-    <strong></strong>
+    <strong>State Space Models (SSM)</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
