@@ -77,7 +77,7 @@ By the end of this course, students will be able to explain key NLP principles a
 - techniques for ensuring LLM safety and security
 - alternatives to token-based models and transformers
 
-Students will gain practical expertise in designing, training, evaluating, and applying advanced LLMs, preparing them to tackle real-world challenges and adapt LLMs to diverse tasks and contexts.
+Students will gain practical expertise in designing, training, evaluating, and applying LLMs, preparing them to tackle real-world challenges and adapt LLMs to diverse tasks and contexts.
 
 ***
 
