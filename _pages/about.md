@@ -17,6 +17,7 @@ This course provides an in-depth exploration of Natural Language Processing (NLP
 
 <b>Prerequisites</b>
 - Familiarity with basic machine learning concepts
+- Familiarity with basic statistical concepts
 - Proficiency in Python programming
 
 ***
