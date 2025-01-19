@@ -64,6 +64,11 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 ### Course/learning objectives
 
+By the end of this course, students will be able to explain key NLP principles and techniques for building LLMs, including:
+
+- foundational concepts of language models
+- transformer models, such as BERT, and techniques for LLM pretraining and fine-tuning
+
 ***
 
 ### Absence policy
