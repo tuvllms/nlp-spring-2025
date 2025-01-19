@@ -24,11 +24,17 @@ Additional useful NLP and deep learning texts include:
 
 ***
 
-### Grading criteria
+### Grading Criteria
 
 *** 
 
-### Academic accommodations
+### Late Policy
+
+Each student is allowed <b>three</b> late days for homework submissions. Once these days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs5624instructors@gmail.com" target="_blank">cs5624instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
+
+***
+
+### Academic Accommodations
 
 Virginia Tech welcomes students with disabilities into the University's educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to, chronic medical conditions, Deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) (540-231-3788, <a href="mailto:ssd@vt.edu" target="_blank">ssd@vt.edu</a>, or visit <a href="https://ssd.vt.edu/">www.ssd.vt.edu</a>). If you have an SSD accommodation letter, please meet with us privately during office hours as early in the semester as possible to discuss implementing your accommodations. You must give us reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams or project presentations.
 
@@ -46,13 +52,13 @@ The tenets of the Virginia Tech Graduate Honor Code will be strictly enforced in
 
 ***
 
-### Absence policy
+### Absence Policy
 
 Although attendance is not graded, students are strongly encouraged to attend all scheduled classes, exams (if any), quizzes, and project presentations to fully engage with the course material and succeed.
 
 ***
 
-### VT Principles of Community statement
+### VT Principles of Community Statement
 
 Virginia Tech is a public land-grant university, committed to teaching and learning, research, and outreach to the Commonwealth of Virginia, the nation, and the world community. Learning from the experiences that shape Virginia Tech as an institution, we acknowledge those aspects of our legacy that reflected bias and exclusion. Therefore, we adopt and practice the following principles as fundamental to our on-going efforts to increase access and inclusion and to create a community that nurtures learning and growth for all of its members:
 
