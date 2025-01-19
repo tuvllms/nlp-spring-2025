@@ -52,9 +52,7 @@ AI assistance is permitted for completing assignments, including homework, quizz
 
 ### Student collaboration policy
 
-Apart from group projects, students must independently complete their work. Sharing code or written materials with others is prohibited. However, discussing concepts, clarifying instructions, exploring problem-solving approaches, or seeking debugging advice (without sharing code) is encouraged. All external sources must be properly cited.
-
-For group projects, work must be completed solely by members of the group.
+For group projects, work must be completed solely by members of the group. Apart from group projects, students must independently complete their work. Sharing code or written materials with others is prohibited. However, discussing concepts, clarifying instructions, exploring problem-solving approaches, or seeking debugging advice (without sharing code) is encouraged. All external sources must be properly cited.
 
 ***
 
