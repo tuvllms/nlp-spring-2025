@@ -6,6 +6,8 @@
     - <a href="" target="_blank"></a>
   logistics:
 
+- title: "Language Modeling"
+
 - date: 1/23
   lecturer:
   title: >
@@ -38,6 +40,8 @@
     - <a href="" target="_blank"></a>
   logistics:
 
+- title: "Transformers and the Evolution of LLMs"
+
 - date: 2/6
   lecturer:
   title: >
@@ -69,6 +73,8 @@
   readings:
     - <a href="" target="_blank"></a>
   logistics:
+
+- title: "LLM Capabilities and Evaluation"
 
 - date: 2/20
   lecturer:
@@ -115,6 +121,8 @@
 
 - date: 3/13
   title: No classes (Spring break)
+
+- title: "Improving LLM Efficiency and Adaptability"
 
 - date: 3/18
   lecturer:
@@ -164,6 +172,8 @@
     - <a href="" target="_blank"></a>
   logistics:
 
+- title: "Advanced LLMs and Compound AI Systems"
+
 - date: 4/8
   lecturer:
   title: >
@@ -195,6 +205,8 @@
   readings:
     - <a href="" target="_blank"></a>
   logistics:
+
+- title: "Other topics"
 
 - date: 4/22
   lecturer:
