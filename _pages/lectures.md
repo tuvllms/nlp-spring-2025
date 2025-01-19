@@ -32,7 +32,6 @@ Note: Since this is the first time the class is being taught, the schedule may a
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}
         {% if lecture.lecturer %}({{ lecture.lecturer }}){% endif %}:
         <br />
         {{ lecture.title }}
