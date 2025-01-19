@@ -19,6 +19,7 @@ Additional useful NLP and deep learning texts include:
 
 - [Foundations of Statistical Natural Language Processing by Manning and Schütze](https://mitpress.mit.edu/9780262133609/foundations-of-statistical-natural-language-processing/).
 - [Introduction to Natural Language Processing by Eisenstein](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/). [Draft](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- [Deep Learning by Goodfellow, Bengio, and Courville](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning by Zhang, Lipton, Li, and Smola](https://d2l.ai/)
 
 ***
