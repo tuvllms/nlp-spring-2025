@@ -13,6 +13,8 @@ nav_order: 1
 
 ### Textbooks
 
+For NLP fundamentals, we recommend the January 2025 release of [Speech and Language Processing (3rd ed.) by Jurafsky and Martin](web.stanford.edu/~jurafsky/slp3/). Course readings will primarily include published research papers from top-tier ML (such as JMLR, ICML, NerIPS, ICLR, COLM) and ACL$^*$ (such as ACL, EMNLP, NAACL) venues, provided as PDFs.
+
 ***
 
 ### Grading criteria
