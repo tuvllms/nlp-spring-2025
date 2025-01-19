@@ -29,8 +29,8 @@ Additional useful NLP and deep learning texts include:
 The grading breakdown is as follows:
 
 - Quizzes (10%)
-- Homework Assignments (50%)
-- Final Project (40%)
+- Homework assignments (50%)
+- Final project (40%)
 
 The top 10 Piazza contributors will earn 3.5%. Instructors will review contributions to ensure the system is not abused.
 
