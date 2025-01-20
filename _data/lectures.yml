@@ -21,7 +21,8 @@
   title: >
     <strong>Neural language models</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7</a>
+    - Bengio et al. <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a>
   logistics:
 
 - date: 1/30
