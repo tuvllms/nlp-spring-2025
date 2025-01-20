@@ -245,8 +245,8 @@
   title: >
     <strong>State Space Models (SSM)</strong>
   readings:
-    - Gu and Dao <a href='https://arxiv.org/abs/2312.00752' target='_blank'>Mamba: Linear-Time Sequence Modeling with Selective State Spaces</a>
-    - Lieber et al. <a href='https://arxiv.org/abs/2403.19887' target='_blank'>Jamba: A Hybrid Transformer-Mamba Language Model</a>
+    - Gu and Dao <a href="https://arxiv.org/abs/2312.00752" target="_blank">Mamba\: Linear-Time Sequence Modeling with Selective State Spaces</a>
+    - Lieber et al. <a href="https://arxiv.org/abs/2403.19887" target="_blank">Jamba\: A Hybrid Transformer-Mamba Language Model</a>
   logistics:
 
 - date: 5/14
