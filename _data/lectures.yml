@@ -24,7 +24,7 @@
     <strong>Neural language models</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_3.pdf"
   readings:
-    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7</a>
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.1-7.4 and 7.6</a>
     - Bengio et al. <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a>
   logistics:
 
@@ -33,7 +33,7 @@
   title: >
     <strong>Backpropagation</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.5 and 7.7</a>
   logistics:
 
 - date: 2/4
