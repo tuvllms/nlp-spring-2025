@@ -41,8 +41,7 @@
   title: >
     <strong>Word Embeddings</strong>
   readings:
-    - Mikolov et al. (a) <a href="https://arxiv.org/pdf/1310.4546" target="_blank">Distributed Representations of Words and Phrases
-and their Compositionality</a>
+    - Mikolov et al. (a) <a href="https://arxiv.org/pdf/1310.4546" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
     - Mikolov et al. (b) <a href="https://arxiv.org/pdf/1301.3781" target="_blank">Efficient Estimation of Word Representations in Vector Space</a>
     - "Pennington et al. <a href='https://nlp.stanford.edu/pubs/glove.pdf' target='_blank'>GloVe: Global Vectors for Word Representation</a>"
   logistics:
