@@ -32,6 +32,7 @@
   lecturer:
   title: >
     <strong>Backpropagation</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_4.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.5 and 7.7</a>
   logistics:
