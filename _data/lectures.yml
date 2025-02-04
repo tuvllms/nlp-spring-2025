@@ -38,6 +38,9 @@
   logistics:
 
 - date: 2/4
+  title: Class canceled because Tu was sick
+  
+- date: 2/6
   lecturer:
   title: >
     <strong>Word Embeddings</strong>
@@ -49,7 +52,7 @@
 
 - title: "Transformers and the Evolution of LLMs"
 
-- date: 2/6
+- date: 2/11
   lecturer:
   title: >
     <strong>Transformers</strong>
@@ -57,7 +60,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 2/11
+- date: 2/13
   lecturer:
   title: >
     <strong>Transformers (cont’d)</strong>
@@ -65,7 +68,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 2/13
+- date: 2/18
   lecturer:
   title: >
     <strong>The Era of BERT</strong>
@@ -73,7 +76,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 2/18
+- date: 2/20
   lecturer:
   title: >
     <strong>Scaling LLM Pretraining</strong>
@@ -83,7 +86,7 @@
 
 - title: "LLM Capabilities and Evaluation"
 
-- date: 2/20
+- date: 2/25
   lecturer:
   title: >
     <strong>LLM Prompting</strong>
@@ -91,7 +94,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 2/25
+- date: 2/27
   lecturer:
   title: >
     <strong>LLM Decoding</strong>
@@ -99,7 +102,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 2/27
+- date: 3/4
   lecturer:
   title: >
     <strong>Instruction tuning</strong>
@@ -107,18 +110,10 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 3/4
-  lecturer:
-  title: >
-    <strong>LLM Alignment</strong>
-  readings:
-    - <a href="" target="_blank"></a>
-  logistics:
-
 - date: 3/6
   lecturer:
   title: >
-    <strong>LLM Evaluation</strong>
+    <strong>LLM Alignment</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
@@ -129,9 +124,17 @@
 - date: 3/13
   title: No classes (Spring break)
 
+- date: 3/18
+  lecturer:
+  title: >
+    <strong>LLM Evaluation</strong>
+  readings:
+    - <a href="" target="_blank"></a>
+  logistics:
+
 - title: "Improving LLM Efficiency and Adaptability"
 
-- date: 3/18
+- date: 3/20
   lecturer:
   title: >
     <strong>Parameter-efficient fine-tuning</strong>
@@ -139,7 +142,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 3/20
+- date: 3/25
   lecturer:
   title: >
     <strong>Mixture of Experts</strong>
@@ -147,7 +150,7 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 3/25
+- date: 3/27
   lecturer:
   title: >
     <strong>Model Merging</strong>
@@ -155,18 +158,10 @@
     - <a href="" target="_blank"></a>
   logistics:
 
-- date: 3/27
-  lecturer:
-  title: >
-    <strong>Distillation, quantization, and pruning</strong>
-  readings:
-    - <a href="" target="_blank"></a>
-  logistics:
-
 - date: 4/1
   lecturer:
   title: >
-    <strong>Small LLMs</strong>
+    <strong>Distillation, quantization, and pruning</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
