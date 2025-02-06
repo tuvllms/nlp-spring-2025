@@ -44,6 +44,7 @@
   lecturer:
   title: >
     <strong>Word Embeddings</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_5.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank">Jurafsky and Martin, Chapter 6</a>
     - Mikolov et al. (a) <a href="https://arxiv.org/pdf/1310.4546" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
