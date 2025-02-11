@@ -121,7 +121,8 @@
   title: >
     <strong>LLM Alignment</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - Ouyang et al. (2022) <a href="https://arxiv.org/pdf/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
   logistics:
 
 - date: 3/11
