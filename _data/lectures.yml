@@ -25,7 +25,7 @@
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_3.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf" target="_blank">Jurafsky and Martin, Chapter 7.1-7.4 and 7.6</a>
-    - Bengio et al. <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a>
+    - Bengio et al. (2003) <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">A Neural Probabilistic Language Model</a>
   logistics:
 
 - date: 1/30
@@ -47,9 +47,9 @@
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_5.pdf"
   readings:
     - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf" target="_blank">Jurafsky and Martin, Chapter 6</a>
-    - Mikolov et al. (a) <a href="https://arxiv.org/pdf/1310.4546" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
-    - Mikolov et al. (b) <a href="https://arxiv.org/pdf/1301.3781" target="_blank">Efficient Estimation of Word Representations in Vector Space</a>
-    - "[optional] Pennington et al. <a href='https://nlp.stanford.edu/pubs/glove.pdf' target='_blank'>GloVe: Global Vectors for Word Representation</a>"
+    - Mikolov et al. (2013a) <a href="https://arxiv.org/pdf/1310.4546" target="_blank">Distributed Representations of Words and Phrases and their Compositionality</a>
+    - Mikolov et al. (2013b) <a href="https://arxiv.org/pdf/1301.3781" target="_blank">Efficient Estimation of Word Representations in Vector Space</a>
+    - "[optional] Pennington et al. (2014) <a href='https://nlp.stanford.edu/pubs/glove.pdf' target='_blank'>GloVe: Global Vectors for Word Representation</a>"
   logistics:
 
 - title: "Transformers and the Evolution of LLMs"
@@ -62,8 +62,8 @@
   title: >
     <strong>Attention mechanisms and Transformers</strong>
   readings:
-    - Bahdanau et al. <a href="https://arxiv.org/pdf/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
-    - Vaswani et al. <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
+    - Bahdanau et al. (2014) <a href="https://arxiv.org/pdf/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
+    - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
     - Jay Alammar's blog <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/" target="_blank">Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)</a>
     - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
   logistics:
@@ -73,8 +73,8 @@
   title: >
     <strong>The Era of BERT</strong>
   readings:
-    - "Devlin et al. <a href='https://arxiv.org/pdf/1810.04805' target='_blank'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>"
-    - Raffel et al. <a href="https://arxiv.org/pdf/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
+    - "Devlin et al. (2018) <a href='https://arxiv.org/pdf/1810.04805' target='_blank'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>"
+    - Raffel et al. (2019) <a href="https://arxiv.org/pdf/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
   logistics:
 
 - date: 2/20
@@ -82,7 +82,8 @@
   title: >
     <strong>Scaling LLM Pretraining</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - Kaplan et al. (2020) <a href="https://arxiv.org/pdf/2001.08361" target="_blank">Scaling Laws for Neural Language Models</a>
+    - Hoffmann et al. (2022) <a href="https://arxiv.org/pdf/2203.15556" target="_blank">Training Compute-Optimal Large Language Models</a>
   logistics:
 
 - title: "LLM Capabilities and Evaluation"
@@ -92,7 +93,8 @@
   title: >
     <strong>LLM Prompting</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
   logistics:
 
 - date: 2/27
