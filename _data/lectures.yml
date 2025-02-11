@@ -102,7 +102,7 @@
   title: >
     <strong>LLM Decoding</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
   logistics:
 
 - date: 3/4
