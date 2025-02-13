@@ -61,6 +61,7 @@
   lecturer:
   title: >
     <strong>Attention mechanisms and Transformers</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_6.pdf"
   readings:
     - Bahdanau et al. (2014) <a href="https://arxiv.org/pdf/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
     - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
