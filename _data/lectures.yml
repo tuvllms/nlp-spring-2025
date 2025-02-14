@@ -63,10 +63,6 @@
     <strong>Attention mechanisms and Transformers</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_6.pdf"
   readings:
-    - Bahdanau et al. (2014) <a href="https://arxiv.org/pdf/1409.0473" target="_blank">Neural Machine Translation by Jointly Learning to Align and Translate</a>
-    - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
-    - Jay Alammar's blog <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/" target="_blank">Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)</a>
-    - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
   logistics:
 
 - date: 2/18
