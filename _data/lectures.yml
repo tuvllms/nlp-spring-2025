@@ -73,6 +73,7 @@
   lecturer:
   title: >
     <strong>The Era of BERT</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_7.pdf"
   readings:
     - "Devlin et al. (2018) <a href='https://arxiv.org/pdf/1810.04805' target='_blank'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>"
     - Raffel et al. (2019) <a href="https://arxiv.org/pdf/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
