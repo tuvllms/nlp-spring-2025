@@ -83,6 +83,7 @@
   lecturer:
   title: >
     <strong>Scaling LLM Pretraining</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_8.pdf"
   readings:
     - Kaplan et al. (2020) <a href="https://arxiv.org/pdf/2001.08361" target="_blank">Scaling Laws for Neural Language Models</a>
     - Hoffmann et al. (2022) <a href="https://arxiv.org/pdf/2203.15556" target="_blank">Training Compute-Optimal Large Language Models</a>
