@@ -95,6 +95,7 @@
   lecturer:
   title: >
     <strong>LLM Prompting</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_9.pdf"
   readings:
     - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
     - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
