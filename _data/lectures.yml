@@ -105,6 +105,7 @@
   lecturer:
   title: >
     <strong>LLM Decoding</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_10.pdf"
   readings:
     - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
   logistics:
