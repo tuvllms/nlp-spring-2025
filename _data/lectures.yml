@@ -143,6 +143,7 @@
   lecturer:
   title: >
     <strong>LLM Evaluation</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_13.pdf"
   readings:
     - Zheng et al. (2023) <a href="https://arxiv.org/pdf/2306.05685" target="_blank">Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena</a>
   logistics:
