@@ -166,7 +166,7 @@
   title: >
     <strong>Mixture of Experts</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - "Fedus et al. (2021) <a href='https://arxiv.org/pdf/2101.03961' target='_blank'>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</a>"
   logistics:
 
 - date: 3/27
