@@ -167,6 +167,7 @@
     <strong>Mixture of Experts</strong>
   readings:
     - "Fedus et al. (2021) <a href='https://arxiv.org/pdf/2101.03961' target='_blank'>Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity</a>"
+    - "Shen et al. (2021) <a href='https://arxiv.org/pdf/2305.14705' target='_blank'>Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models</a>"
   logistics:
 
 - date: 3/27
@@ -174,7 +175,8 @@
   title: >
     <strong>Model Merging</strong>
   readings:
-    - <a href="" target="_blank"></a>
+    - Ilharco et al. (2022) <a href="https://arxiv.org/pdf/2212.04089" target="_blank">Editing Models with Task Arithmetic</a>
+    - "Yadav et al. (2023) <a href='https://arxiv.org/pdf/2305.14705' target='_blank'>TIES-Merging: Resolving Interference When Merging Models</a>"
   logistics:
 
 - date: 4/1
