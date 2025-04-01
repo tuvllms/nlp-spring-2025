@@ -188,7 +188,9 @@
   title: >
     <strong>Distillation, quantization, and pruning</strong>
   readings:
+    - Hinton et al. (2015) <a href="https://arxiv.org/pdf/1503.02531" target="_blank">Distilling the Knowledge in a Neural Network</a>
     - Maarten Grootendorst's blog <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization" target="_blank">A Visual Guide to Quantization</a>
+    - "Frankle and Carbin (2018) <a href='https://arxiv.org/pdf/1803.03635' target='_blank'>The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a>"
   logistics:
 
 - date: 4/3
