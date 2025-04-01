@@ -187,6 +187,7 @@
   lecturer:
   title: >
     <strong>Distillation, quantization, and pruning</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_17.pdf"
   readings:
     - Hinton et al. (2015) <a href="https://arxiv.org/pdf/1503.02531" target="_blank">Distilling the Knowledge in a Neural Network</a>
     - Maarten Grootendorst's blog <a href="https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization" target="_blank">A Visual Guide to Quantization</a>
