@@ -198,6 +198,7 @@
   lecturer:
   title: >
     <strong>Long-context LLMs</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_18.pdf"
   readings:
     - "Dao et al. (2022) <a href='https://arxiv.org/pdf/2205.14135' target='_blank'>FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness</a>"
     - "Gao et al. (2024) <a href='https://arxiv.org/pdf/2410.02660' target='_blank'>How to Train Long-Context Language Models (Effectively)</a>"
