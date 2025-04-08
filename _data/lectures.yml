@@ -209,20 +209,20 @@
 - date: 4/8
   lecturer:
   title: >
-    <strong>Thinking LLMs</strong>
-  readings:
-    - <a href="" target="_blank"></a>
-  logistics:
-
-- date: 4/10
-  lecturer:
-  title: >
-    <strong>Scaling test-time compute</strong>
+    <strong>Test-time scaling</strong>
   readings:
     - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
     - "Muennighoff et al. (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>s1: Simple test-time scaling</a>"
     - "Brown et al. (2024) <a href='https://arxiv.org/pdf/2407.21787' target='_blank'>Large language monkeys: Scaling inference compute with repeated sampling</a>"
     - "[optional] Geiping et al. (2025) <a href='https://www.arxiv.org/pdf/2502.05171' target='_blank'>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</a>"
+  logistics:
+
+- date: 4/10
+  lecturer:
+  title: >
+    <strong>Thinking LLMs</strong>
+  readings:
+    - <a href="" target="_blank"></a>
   logistics:
 
 - date: 4/15
