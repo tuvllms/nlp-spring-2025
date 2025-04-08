@@ -210,6 +210,7 @@
   lecturer:
   title: >
     <strong>Test-time scaling</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_19.pdf"
   readings:
     - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
     - "Muennighoff et al. (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>s1: Simple test-time scaling</a>"
