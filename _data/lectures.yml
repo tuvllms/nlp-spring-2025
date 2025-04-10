@@ -224,7 +224,9 @@
     <strong>Advanced reasoning & Test-time scaling (cont'd)</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_20.pdf"
   readings:
-    - <a href="" target="_blank"></a>
+    - "Ye et al. (2025) <a href='https://arxiv.org/pdf/2502.03387' target='_blank'>LIMO: Less is More for Reasoning</a>"
+    - "Yu et al. (2025) <a href='https://arxiv.org/pdf/2504.00810' target='_blank'>Z1: Efficient Test-time Scaling with Code</a>"
+    - "[optional] Xiang et al. (2025) <a href='https://arxiv.org/pdf/2501.04682' target='_blank'>Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought</a>"
   logistics:
 
 - date: 4/15
