@@ -209,7 +209,7 @@
 - date: 4/8
   lecturer:
   title: >
-    <strong>Test-time scaling</strong>
+    <strong>Advanced reasoning & Test-time scaling</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_19.pdf"
   readings:
     - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
@@ -221,7 +221,8 @@
 - date: 4/10
   lecturer:
   title: >
-    <strong>Thinking LLMs</strong>
+    <strong>Advanced reasoning & Test-time scaling (cont'd)</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_20.pdf"
   readings:
     - <a href="" target="_blank"></a>
   logistics:
