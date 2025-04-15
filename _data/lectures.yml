@@ -234,6 +234,7 @@
   lecturer:
   title: >
     <strong>Retrieval-augmented generation (RAG) & Tool-use LLMs</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_21.pdf"
   readings:
     - "Lewis et al. (2020) <a href='https://arxiv.org/pdf/2005.11401' target='_blank'>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a>"
     - "Schick et al. (2023) <a href='https://arxiv.org/pdf/2302.04761' target='_blank'>Toolformer: Language Models Can Teach Themselves to Use Tools</a>"
