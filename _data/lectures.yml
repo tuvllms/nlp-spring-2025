@@ -250,7 +250,7 @@
   readings:
     - "Yao et al. (2022) <a href='https://arxiv.org/pdf/2210.03629' target='_blank'>ReAct: Synergizing Reasoning and Acting in Language Models</a>"
     - "Wu et al. (2023) <a href='https://arxiv.org/pdf/2210.03629' target='_blank'>AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation</a>"
-    - "Andrew Ng <a href='https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/' target='_blank'>Agentic Design Patterns Part 1-5</a>"   
+    - "Andrew Ng <a href='https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/' target='_blank'>Agentic Design Patterns Part 1-5</a>"
     - "[optional] Madaan et al. (2023) <a href='https://arxiv.org/pdf/2303.17580' target='_blank'>Self-Refine: Iterative Refinement with Self-Feedback</a>"
     - "[optional] Shinn et al. (2023) <a href='https://arxiv.org/pdf/2303.11366' target='_blank'>Reflexion: Language Agents with Verbal Reinforcement Learning</a>"
     - "[optional] Shen et al. (2023) <a href='https://arxiv.org/pdf/2303.17580' target='_blank'>HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face</a>"
