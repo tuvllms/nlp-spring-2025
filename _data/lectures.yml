@@ -262,7 +262,8 @@
 - date: 4/22
   lecturer:
   title: >
-    <strong>Multimodal LLMs & Multilingual LLMs</strong>
+    <strong>Multimodal LLMs</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_23.pdf"
   readings:
     - <a href="" target="_blank"></a>
   logistics:
