@@ -265,7 +265,7 @@
     <strong>Multimodal LLMs</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_23.pdf"
   readings:
-    - "Wang et al. (2024) <a href='https://arxiv.org/abs/2409.12191' target='_blank'>Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution"
+    - "Wang et al. (2024) <a href='https://arxiv.org/abs/2409.12191' target='_blank'>Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution</a>"
     - "McKinzie et al. (2024) <a href='https://arxiv.org/abs/2403.09611' target='_blank'>MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training</a>"
     - "Sebastian Raschka <a href='https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html' target='_blank'>Understanding Multimodal LLMs</a>"
     - "[optional] Deitke et al. (2024) <a href='https://arxiv.org/abs/2409.17146' target='_blank'>Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models</a>"
