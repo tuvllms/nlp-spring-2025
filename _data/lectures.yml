@@ -276,26 +276,19 @@
 - date: 4/24
   lecturer:
   title: >
-    <strong>Token-free LLMs</strong>
-  readings:
-    - <a href="" target="_blank"></a>
-  logistics:
-
-- date: 4/29
-  lecturer:
-  title: >
     <strong>LLM Safety and Security</strong>
   readings:
     - <a href="" target="_blank"></a>
   logistics:
 
+- date: 4/29
+  title: No classes
+
 - date: 5/1
-  lecturer:
-  title: >
-    <strong>State Space Models (SSM)</strong>
-  readings:
-    - <a href="" target="_blank"></a>
-  logistics:
+  title: No classes 
 
 - date: 5/6
-  title: "Project presentations (Time & Location: TBD)"
+  title: "Project presentations"
+
+- date: 5/8
+  title: "Project presentations"
