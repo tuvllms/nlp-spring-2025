@@ -279,6 +279,7 @@
     <strong>LLM Safety and Security</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_24.pdf"
   readings:
+    - "Nasr et al. (2023) <a href='https://arxiv.org/pdf/2311.17035' target='_blank'>Scalable Extraction of Training Data from (Production) Language Models</a>"
     - "Shen et al. (2023) <a href='https://arxiv.org/pdf/2308.03825' target='_blank'>\"Do Anything Now\": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</a>"
     - "Kumar et al. (2025) <a href='https://arxiv.org/pdf/2502.02542' target='_blank'>OverThink: Slowdown Attacks on Reasoning LLMs</a>"
   logistics:
