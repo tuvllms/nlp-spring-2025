@@ -277,6 +277,7 @@
   lecturer:
   title: >
     <strong>LLM Safety and Security</strong>
+  slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_24.pdf"
   readings:
     - <a href="" target="_blank"></a>
   logistics:
