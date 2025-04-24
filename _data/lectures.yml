@@ -279,7 +279,7 @@
     <strong>LLM Safety and Security</strong>
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_24.pdf"
   readings:
-    - <a href="" target="_blank"></a>
+    - "Shen et al. (2023) <a href='https://arxiv.org/abs/2409.12191' target='_blank'>\"Do Anything Now\": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models</a>"
   logistics:
 
 - date: 4/29
