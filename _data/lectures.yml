@@ -130,6 +130,7 @@
   slides: "https://tuvllms.github.io/nlp-spring-2025/assets/pdf/lecture_12.pdf"
   readings:
     - Ouyang et al. (2022) <a href="https://arxiv.org/pdf/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - Bai et al. (2022) <a href="https://arxiv.org/pdf/2204.05862" target="_blank">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
     - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
   logistics:
 
